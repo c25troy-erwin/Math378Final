@@ -1,0 +1,10 @@
+---
+title: "Home"
+format:
+  html:
+    code-fold: true
+---
+
+## Troy Erwin's Math 378 Final Project
+
+This is the final project for Math 378, where we will be working through the labs from Chapters 1-6 of *DevOps for Data Science* by Alex Gold.
